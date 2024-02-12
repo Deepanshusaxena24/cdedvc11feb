@@ -1,0 +1,5 @@
+outs:
+- md5: aacfe2b9745fe27520efca8511e6006a
+  size: 27
+  hash: md5
+  path: cdedemo.txt
